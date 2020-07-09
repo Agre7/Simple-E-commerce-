@@ -1,4 +1,4 @@
-# React & Node Tutorial - Full ECommerce in 5 Hours [2020]
+# React & Node  Full ECommerce 
 
 Welcome to my React and Node App
 
